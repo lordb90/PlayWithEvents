@@ -7,15 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8468f301-9e39-4ebd-b8ee-5678af6d42dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EventExamples/WorkPerformedEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventExamples/WorkType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventExamples/Worker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LambdaExamples/WorkPerformedEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LambdaExamples/WorkType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LambdaExamples/Worker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DelegatesExamples/DelegatesExamples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DelegatesExamples/DelegatesExamples.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DelegatesExamples/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DelegatesExamples/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayWithEvents.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PlayWithEvents.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PlayWithEvents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PlayWithEvents/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +101,16 @@
       <updated>1631105999358</updated>
       <workItem from="1631106025158" duration="2320000" />
       <workItem from="1631114202597" duration="14063000" />
+      <workItem from="1631192770914" duration="601000" />
     </task>
+    <task id="LOCAL-00001" summary="lambda and event updates">
+      <created>1631192833441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631192833441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,5 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="lambda and event updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda and event updates" />
   </component>
 </project>
